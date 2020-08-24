@@ -1,0 +1,11 @@
+This application is used to search queries on the stackoverflow website.
+
+To compile:
+Run as Maven build(clean install)
+
+To Run:
+simply run as java application and enter your query to search
+output would be the top 5 findings of your search.
+
+
+
